@@ -9,6 +9,8 @@ http://github.com/Automic-Community/Atlassian-Bitbucket-Action-Pack
 Contents of Solution Package:
 
 						
+								*PCK.CUSTOM_ATLASSIAN_BITBUCKET_1.0.0.zip
+								
 								*Bitbucket_Logo.png
 								
 						
